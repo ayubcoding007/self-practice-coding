@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* background-color: black;
+  color: white; */
+}
+body{
+    background-color: black;
+    color: white;
+}
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.dispaly {
+  text-align: center;
+  width: 200px;
+  height: 50px;
+  background-color: rgb(228, 38, 38);
+  color: white;
+}
